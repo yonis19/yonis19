@@ -11,6 +11,6 @@
 - Sport 
 - Play videogames
 - etc.
-
-- 📫 How to reach me yonis19@gmail.com
+## 📫 How to reach me
+- yonis19@gmail.com
 
