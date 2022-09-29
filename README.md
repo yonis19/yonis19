@@ -14,3 +14,5 @@
 ## 📫 How to reach me
 - yonis19@gmail.com
 
+## 📃 Medium articles 
+- https://medium.com/@yonatanshimoni/how-to-build-ci-cd-pipeline-for-azure-api-management-that-supports-multi-environments-65a09590610e
