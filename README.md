@@ -2,7 +2,7 @@
 <h3 align="center">A DevOps engineer from Israel</h3>
 
 ## 💬 Ask me about
-- Full CI/CD solutions (Python, Node.js)
+- Full CI/CD solutions 
 - Docker & K8S
 - Microservices
 
