@@ -6,11 +6,6 @@
 - Docker & K8S
 - Microservices
 
-## 📅 Hobbies
-- Surfing and snowboarding 🏄‍♂️🏂
-- Sport 
-- Play videogames
-- etc.
 ## 📫 How to reach me
 - yonis19@gmail.com
 
